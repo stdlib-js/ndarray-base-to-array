@@ -20,7 +20,7 @@ limitations under the License.
 
 # ndarray2array
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Convert an ndarray buffer to a generic array.
 
@@ -168,6 +168,14 @@ for ( i = 0; i < 20; i++ ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -213,8 +221,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/ndarray-base-to-array/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/ndarray-base-to-array?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/ndarray-base-to-array.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/ndarray-base-to-array/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
