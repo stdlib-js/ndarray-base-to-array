@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@esm/index.mjs';
+import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@v0.2.1-esm/index.mjs';
 ```
 
 #### ndarray2array( buffer, shape, strides, offset, order )
@@ -125,7 +125,7 @@ var arr = ndarray2array( buffer, shape, strides, offset, order );
 import shape2strides from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-shape2strides@esm/index.mjs';
 import strides2offset from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-strides2offset@esm/index.mjs';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
-import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@esm/index.mjs';
+import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@v0.2.1-esm/index.mjs';
 
 // Create a data buffer:
 var buffer = [];
